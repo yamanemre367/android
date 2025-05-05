@@ -1,13 +1,13 @@
 [
     {
-      " Traktor ismi": "Fent",
+      " Traktor ismi": "Tümosan",
       "Traktor Model": "2018",
       "Traktor Özellik": "motor Gücü:115hp Vites:5ileri,1Geri Konfor olarak tümosan kendini baya geliştirmiştir ve kendini geliştirmeye devam etmektedir.",
       "Model Yapımcısı": "TÜrk MOtor SANayi ve Ticaret Anonim Şirketi'yapmıştır.",
       "gorsel": "https://github.com/yamanemre367/android/blob/main/tumosan9115.jpg",
     },
     {
-       " Traktor ismi": "Fent",
+       " Traktor ismi": "fent",
         "Traktor Model": "2021",
         "Traktor Özellik": "motor Gücü:380hp,Vites:6ileri.1Geri,6silindir olup dünya Çapında tercih edilen Traktörlerden bir tanesidir.",
         "Model Yapımcısı": "AGCO Corporation",
