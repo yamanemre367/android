@@ -4,7 +4,7 @@
       "Traktor Model": "2018",
       "Traktor Özellik": "motor Gücü:115hp Vites:5ileri,1Geri Konfor olarak tümosan kendini baya geliştirmiştir ve kendini geliştirmeye devam etmektedir.",
       "Model Yapımcısı": "TÜrk MOtor SANayi ve Ticaret Anonim Şirketi'yapmıştır.",
-      "gorsel": "https://github.com/yamanemre367/android/blob/main/tumosan9115.jpg",
+      "gorsel": "https://github.com/yamanemre367/android/blob/main/t%C3%BCmosan.jpg",
     },
     {
        " Traktor ismi": "fent",
