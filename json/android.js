@@ -6,7 +6,7 @@
     "karbonhidrat": "motor Gücü:265 HP,Vites Sistemi: 7 ileri,3Geri, olup Kendisin dünya çapında ismini tanıtmıştir ve daha iybir hale getirmiştir",
     "protein": "Massey-Harris ve İngiliz Ferguson Limited ile beraber kurmuşlardır.",
     "yag": "Yag: 0.3 gram",
-    "gorsel": "https://github.com/yamanemre367/android/blob/main/masey%20ferguson-4.png"
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
   },
   {
     "isim": "Yulaf",
