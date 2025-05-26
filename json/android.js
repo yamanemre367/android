@@ -6,7 +6,7 @@
     "karbonhidrat": "Karbonhidrat: 23 gram",
     "protein": "Protein: 1.1 gram",
     "yag": "Yag: 0.3 gram",
-    "gorsel": "https://raw.githubusercontent.com/yamanemre367/android/master/masset ferguson.png"
+    "gorsel": "https://raw.githubusercontent.com/yamanemre367/android/master/masey ferguson-4.png"
   },
   {
     "isim": "Yulaf",
