@@ -6,7 +6,7 @@
     "karbonhidrat": "Karbonhidrat: 57.3 gram",
     "protein": "Protein: 11.3 gram",
     "yag": "Yag: 5.8 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
+    "gorsel": "https://raw.githubusercontent.com/yamanemre367/Traktor/master/masey%20ferguson-4.png"
   },
   {
     "isim": "Ceviz",
