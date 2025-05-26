@@ -1,10 +1,10 @@
 
 
   {
-    "isim": "Muz",
-    "kalori": "77 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 23 gram",
-    "protein": "Protein: 1.1 gram",
+    "isim": "masey fergusn",
+    "kalori": "2024",
+    "karbonhidrat": "motor Gücü:265 HP,Vites Sistemi: 7 ileri,3Geri, olup Kendisin dünya çapında ismini tanıtmıştir ve daha iybir hale getirmiştir",
+    "protein": "Massey-Harris ve İngiliz Ferguson Limited ile beraber kurmuşlardır.",
     "yag": "Yag: 0.3 gram",
     "gorsel": "https://raw.githubusercontent.com/yamanemre367/android/master/masey ferguson-4.png"
   },
