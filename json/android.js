@@ -1,14 +1,6 @@
 
 
   {
-    "isim": "masey fergusn",
-    "kalori": "2024",
-    "karbonhidrat": "motor Gücü:265 HP,Vites Sistemi: 7 ileri,3Geri, olup Kendisin dünya çapında ismini tanıtmıştir ve daha iybir hale getirmiştir",
-    "protein": "Massey-Harris ve İngiliz Ferguson Limited ile beraber kurmuşlardır.",
-    "yag": "Yag: 0.3 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
-  },
-  {
     "isim": "Yulaf",
     "kalori": "351 Kilokalori",
     "karbonhidrat": "Karbonhidrat: 57.3 gram",
