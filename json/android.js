@@ -1,28 +1,83 @@
-[
-    {
-       "isim": "Tümosan",
-    "kalori": "2018",
-    "karbonhidrat": "motor Gücü:115hp Vites:5ileri,1Geri Konfor olarak tümosan kendini baya geliştirmiştir ve kendini geliştirmeye devam etmektedir.",
-    "protein": "TÜrk MOtor SANayi ve Ticaret Anonim Şirketi'yapmıştır.",
-    "gorsel": "https://github.com/yamanemre367/android/blob/main/t%C3%BCmosan.jpg"
-    {
-       "isim": "fent",
-    "kalori": "2021",
-    "karbonhidrat": "motor Gücü:380hp,Vites:6ileri.1Geri,6silindir olup dünya Çapında tercih edilen Traktörlerden bir tanesidir.",
-    "protein": "AGCO Corporation",
-    "gorsel": "https://github.com/yamanemre367/android/blob/main/fent.png"
-    },
-    {
-       "isim": "Massey Ferguson",
-    "kalori": "2024",
-    "karbonhidrat": "motor Gücü:265 HP,Vites Sistemi: 7 ileri,3Geri, olup Kendisin dünya çapında ismini tanıtmıştir ve daha iybir hale getirmiştir",
-    "protein": "Massey-Harris ve İngiliz Ferguson Limited ile beraber kurmuşlardır.",
-    "gorsel": "https://github.com/yamanemre367/android/blob/main/masey%20ferguson-4.png"
-    },
-    {
-        "isim": " New Holland",
-    "kalori": "2022",
-    "karbonhidrat": "Motor Gücü:110hp,Vites:12 ileri,12 geri,kullanılmıştır.Bu traktor kendini gücü olarak tanıtmıştır ve daha iyi bir hale getirmiştir ve getirmeye devam etmektedir.",
-    "protein": "CNH Industrial",
-    "gorsel": "https://github.com/yamanemre367/android/blob/main/new%20holland-tasarim-(1).jpg"
-  ]
+
+
+  {
+    "isim": "Muz",
+    "kalori": "77 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 23 gram",
+    "protein": "Protein: 1.1 gram",
+    "yag": "Yag: 0.3 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Yulaf",
+    "kalori": "351 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 57.3 gram",
+    "protein": "Protein: 11.3 gram",
+    "yag": "Yag: 5.8 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
+  },
+  {
+    "isim": "Ceviz",
+    "kalori": "654 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 13.7 gram",
+    "protein": "Protein: 15.2 gram",
+    "yag": "Yag: 65.2 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/ceviz.png"
+  },
+  {
+    "isim": "Kuru Fasulye",
+    "kalori": "155 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 22 gram",
+    "protein": "Protein: 19 gram",
+    "yag": "Yag: 6 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/kurufasulye.png"
+  },
+  {
+    "isim": "Patates",
+    "kalori": "77 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 17 gram",
+    "protein": "Protein: 2 gram",
+    "yag": "Yag: 0.1 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/patates.png"
+  },
+  {
+    "isim": "Tavuk Göğüs",
+    "kalori": "120 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 0 gram",
+    "protein": "Protein: 22.5 gram",
+    "yag": "Yag: 2.6 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/tavukgogus.png"
+  },
+  {
+    "isim": "Yeşil Mercimek",
+    "kalori": "116 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 20 gram",
+    "protein": "Protein: 9 gram",
+    "yag": "Yag: 0.4 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yesilmercimek.png"
+  },
+  {
+    "isim": "Yoğurt",
+    "kalori": "57 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 4.5 gram",
+    "protein": "Protein: 3 gram",
+    "yag": "Yag: 3 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yogurt.png"
+  },
+  {
+    "isim": "Badem",
+    "kalori": "570 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 3.7 gram",
+    "protein": "Protein: 18.7 gram",
+    "yag": "Yag: 54.1 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/badem.png"
+  },
+  {
+    "isim": "Elma",
+    "kalori": "47 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 12.4 gram",
+    "protein": "Protein: 0.2 gram",
+    "yag": "Yag: 0.1 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/elma.png"
+  }
+]
